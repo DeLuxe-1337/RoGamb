@@ -1,15 +1,13 @@
 {
   "files": {
-    "main.css": "/RoGamb/static/css/main.f61b2789.css",
-    "main.js": "/RoGamb/static/js/main.1a9c4d7a.js",
-    "static/js/787.4cc884e0.chunk.js": "/RoGamb/static/js/787.4cc884e0.chunk.js",
+    "main.css": "/RoGamb/static/css/main.e168b5b4.css",
+    "main.js": "/RoGamb/static/js/main.eb9c777e.js",
     "index.html": "/RoGamb/index.html",
-    "main.f61b2789.css.map": "/RoGamb/static/css/main.f61b2789.css.map",
-    "main.1a9c4d7a.js.map": "/RoGamb/static/js/main.1a9c4d7a.js.map",
-    "787.4cc884e0.chunk.js.map": "/RoGamb/static/js/787.4cc884e0.chunk.js.map"
+    "main.e168b5b4.css.map": "/RoGamb/static/css/main.e168b5b4.css.map",
+    "main.eb9c777e.js.map": "/RoGamb/static/js/main.eb9c777e.js.map"
   },
   "entrypoints": [
-    "static/css/main.f61b2789.css",
-    "static/js/main.1a9c4d7a.js"
+    "static/css/main.e168b5b4.css",
+    "static/js/main.eb9c777e.js"
   ]
 }
